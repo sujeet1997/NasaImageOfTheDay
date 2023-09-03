@@ -2,6 +2,9 @@
 
 This Android app displays NASA's "Image of the Day" along with its description using NASA's API.
 
+## APK File 
+https://github.com/sujeet1997/NasaImageOfTheDay/blob/main/NasaIoTD.apk
+
 ## Prerequisites
 
 - Android Studio
@@ -35,7 +38,6 @@ To obtain an API key from NASA's Open API portal:
 
 - Thanks to the [ExoPlayer](https://github.com/google/ExoPlayer) team for the video playback functionality.
 - Image resources provided by [NASA](https://www.nasa.gov).
-
 
 
 ![screen1](https://github.com/sujeet1997/NasaImageOfTheDay/assets/81901334/5707e3b0-b9b5-4329-8b0a-f98322992140)
