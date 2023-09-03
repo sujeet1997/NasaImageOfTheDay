@@ -54,7 +54,7 @@ object ApiService {
             val request = chain.request()
                 .newBuilder()
                 .url(url)
-                .addHeader("Authorization", "Basic Q2VudHVyeUxpdmU6I0NlbjE0NUZzV2ts")
+//                .addHeader("Authorization", "Basic YOUR_AUTH")
 //                .addHeader(
 //                    "Authorization", "${PreferenceHelperToken.getTokenDetails(ApplicationClass.appContext)?.token_type
 //                    } ${PreferenceHelperToken.getTokenDetails(ApplicationClass.appContext)?.access_token}")

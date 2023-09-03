@@ -20,7 +20,7 @@ android {
 
         // Image Services
         buildConfigField "String", "BaseUrl", "\"https://api.nasa.gov/\""
-        buildConfigField "String", "APIKey", "\"IgvEecI3qESMHXnMRqMkHQMa320Cs5ZLeJe6y8Xq\""
+        buildConfigField "String", "APIKey", "\"YOUR_API_KEY\""
 
     }
 
