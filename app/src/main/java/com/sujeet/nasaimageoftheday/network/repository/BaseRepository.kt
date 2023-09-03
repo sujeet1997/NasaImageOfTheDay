@@ -24,16 +24,6 @@ open class BaseRepository {
         }
     }
 
-//    suspend fun <T : Any> safeApiCall(call: suspend () -> Output<T>, error: String): Output<T> {
-//
-//        return when (val result = call.invoke()) {
-//            is Output.Success -> result
-//            is Output.Error -> {
-//                Log.e("Error", "The $error and the ${result.exception}")
-//                Output.Error(result.exception)
-//            }
-//        }
-//    }
 
     private suspend fun <T : Any> apiOutput(
         call: suspend () -> Response<T>,
