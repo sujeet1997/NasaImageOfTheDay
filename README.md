@@ -38,5 +38,8 @@ To obtain an API key from NASA's Open API portal:
 
 
 
+![screen1](https://github.com/sujeet1997/NasaImageOfTheDay/assets/81901334/5707e3b0-b9b5-4329-8b0a-f98322992140)
 
+
+![screen2](https://github.com/sujeet1997/NasaImageOfTheDay/assets/81901334/f6f52661-7431-447e-bd05-c85eeb9aa373)
 
